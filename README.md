@@ -10,7 +10,11 @@ This site is a map of learning content produced by and curated by the Power BI C
 Find a problem? Spot a bug? [Post an issue here](https://github.com/Microsoft/sqlworkshops/issues) and we'll try and fix it.
 
 ## Power BI Data Modeling
+- [Lab: Data Modeling Best Practices]
+- [Lab: Preparing the Power BI Environment]
 - [Lab: Incremental Refresh](https://docs.microsoft.com/en-us/power-bi/service-premium-incremental-refresh)
+- [lab: Aggregations]
+- [Lab: Managing and Monitoring Premium Capacity]
 
 ## Learning how to self-learn
 
