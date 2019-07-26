@@ -30,12 +30,12 @@ This project has adopted the [Microsoft Open Source Code of Conduct](https://ope
 
 ### Download all Workshops as a zip file
 
-The entire repository can be [downloaded as a single ZIP file here](https://github.com/Microsoft/sqlworkshops/archive/master.zip). 
+The entire repository can be [downloaded as a single ZIP file here](https://github.com/plebla372/labs/archive/master.zip). 
 
 
 ### Clone all Workshops using git
 
-You can [clone the entire respository using `git` here](https://github.com/Microsoft/sqlworkshops.git). 
+You can [clone the entire respository using `git` here](https://github.com/plebla372/labs.git). 
 
 ### Get only one Workshop
 You can follow the steps below to clone individual files from a git repo using a git client. 
