@@ -13,7 +13,7 @@ Find a problem? Spot a bug? [Post an issue here](https://github.com/Microsoft/sq
 - [Lab: Data Modeling Best Practices]
 - [Lab: Preparing the Power BI Environment]
 - [Lab: Incremental Refresh](https://docs.microsoft.com/en-us/power-bi/service-premium-incremental-refresh)
-- [lab: Aggregations]
+- [Lab: Aggregations]
 - [Lab: Managing and Monitoring Premium Capacity]
 
 ## Learning how to self-learn
