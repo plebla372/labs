@@ -3,14 +3,13 @@
 # Power BI Labs
 ## (https://aka.ms/powerbi_labs)
 
-This site is a map of learning content produced by and curated by the Power BI Customer Advisory Team (PBICAT) team in Microsoft Engineering. These materials are meant to be instructor-led, but you can work through the materials on a test system on your own if desired. Labs are shorter and Workshops are more comprehensive. You can view all materials directly in this interface, or you can [view the raw github site for this content here](https://github.com/Microsoft/sqlworkshops). 
+This site is a map of learning content produced by and curated by the Power BI Customer Advisory Team (PBICAT) team in Microsoft Engineering. These materials are meant to be instructor-led, but you can work through the materials on a test system on your own if desired. Labs are shorter and Workshops are more comprehensive. You can view all materials directly in this interface, or you can [view the raw github site for this content here](https://github.com/plebla372/labs). 
 
 *See the license information at the bottom of this README.md file*
 
 Find a problem? Spot a bug? [Post an issue here](https://github.com/Microsoft/sqlworkshops/issues) and we'll try and fix it.
 
-## SQL Server Data Platform
-
+## Power BI Data Modeling
 - [Lab: SQL Server 2019](https://github.com/microsoft/sqlworkshops/tree/master/sql2019lab)
 - [Workshop: SQL Server 2019 Big Data Clusters - Architecture](https://github.com/Microsoft/sqlworkshops/tree/master/sqlserver2019bigdataclusters)
 - [Workshop: Modernize your Database with SQL Server 2019](https://github.com/Microsoft/sqlworkshops/tree/master/ModernizeYourDatabases2019)
