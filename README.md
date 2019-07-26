@@ -16,21 +16,6 @@ Find a problem? Spot a bug? [Post an issue here](https://github.com/Microsoft/sq
 - [Workshop: Modernize your Database with SQL Server 2019](https://github.com/Microsoft/sqlworkshops/tree/master/ModernizeYourDatabases2019)
 - [Workshop: SQL Server 2019 on OpenShift](https://github.com/Microsoft/sqlworkshops/tree/master/SQLonOpenShift)
 
-## SQL Server Programming
-
-- [Lab: Python for Data Professionals](https://github.com/Microsoft/sqlworkshops/tree/master/PythonForDataProfessionals)
-- [Workshop: R for Data Professionals](https://github.com/Microsoft/sqlworkshops/tree/master/RForDataProfessionals)
-
-## SQL Server Machine Learning and AI
-
-- [Workshop: Machine Learning with SQL Server](https://github.com/Microsoft/sqlworkshops/tree/master/SQLServerMLServices)
-
-# Presentation Materials, Code, and References
-
-- [Presentation Materials - *(PowerPoint Decks, etc.)*](https://github.com/Microsoft/sqlworkshops/tree/master/References/README.MD#decks)
-- [Example Code](https://github.com/Microsoft/sqlworkshops/tree/master/References/README.MD#code)
-- [References and Tools from the Microsoft SQL Server Team](https://github.com/Microsoft/sqlworkshops/tree/master/References/README.MD#links)
-
 ## Learning how to self-learn
 
 Many of these topics are quite deep, and take time to fully absorb. There are several phases of learning:
