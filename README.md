@@ -17,7 +17,7 @@ Find a problem? Spot a bug? [Post an issue here](https://github.com/Microsoft/sq
 - [Lab: Managing and Monitoring Premium Capacity]
 
 ## Other Power BI Labs
-- [Using Artificial Intelligence and Power BI to Detect Picture Emotion]
+- [Using Artificial Intelligence and Power BI to Detect Picture Emotion](https://github.com/plebla372/labs/tree/master/Using%20Artificial%20Intelligence%20and%20Power%20BI%20to%20Detect%20Picture%20Emotion)
 ## Learning how to self-learn
 
 Many of these topics are quite deep, and take time to fully absorb. There are several phases of learning:
