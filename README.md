@@ -16,6 +16,8 @@ Find a problem? Spot a bug? [Post an issue here](https://github.com/Microsoft/sq
 - [Lab: Aggregations]
 - [Lab: Managing and Monitoring Premium Capacity]
 
+## Other Power BI Labs
+- [Using Artificial Intelligence and Power BI to Detect Picture Emotion]
 ## Learning how to self-learn
 
 Many of these topics are quite deep, and take time to fully absorb. There are several phases of learning:
